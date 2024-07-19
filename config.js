@@ -47,29 +47,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
 global.sig = 'https://www.instagram.com/nvkenn_'
-global.sgh = 'https://github.com/nvhitori'
-global.sgc = 'https://chat.whatsapp.com/KL2YTdMq2np6QIhas42RCa'
+global.sgh = 'https://github.com/hoshi2317'
+global.sgc = 'https://chat.whatsapp.com/CFwQeLwPer0Idhile4vWmM'
 global.sdc = " "
 global.snh = 'https://xhitori.my.id'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082125276167'
+global.pdana = '083159699851'
 global.povo = '_'
 global.pgopay = '_'
-global.ppulsa = '082125276167'
-global.ppulsa2 = '082125276167'
-global.psaweria = 'https://saweria.co/nvkenn'
+global.ppulsa = '083159699851'
+global.ppulsa2 = '_'
+global.psaweria = 'https://saweria.co/Hoshi21'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281323870860'
-global.nomorown = '6282125276167'
-global.namebot = 'XHITORI'
-global.nameown = 'V4LL'
+global.nomorbot = '6283132747944'
+global.nomorown = '6283159699851'
+global.namebot = 'Yuki'
+global.nameown = 'Hoshi'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282125276167', 'V4LL', true]
+  ['6283159699851', 'V4LL', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
